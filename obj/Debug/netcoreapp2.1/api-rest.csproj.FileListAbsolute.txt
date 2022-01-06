@@ -1,0 +1,14 @@
+C:\projetos\VR\api-rest\bin\Debug\netcoreapp2.1\api-rest.deps.json
+C:\projetos\VR\api-rest\bin\Debug\netcoreapp2.1\api-rest.runtimeconfig.json
+C:\projetos\VR\api-rest\bin\Debug\netcoreapp2.1\api-rest.runtimeconfig.dev.json
+C:\projetos\VR\api-rest\bin\Debug\netcoreapp2.1\api-rest.dll
+C:\projetos\VR\api-rest\bin\Debug\netcoreapp2.1\api-rest.pdb
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.csprojAssemblyReference.cache
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.csproj.CoreCompileInputs.cache
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.RazorAssemblyInfo.cache
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.RazorAssemblyInfo.cs
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.AssemblyInfoInputs.cache
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.AssemblyInfo.cs
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.RazorTargetAssemblyInfo.cache
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.dll
+C:\projetos\VR\api-rest\obj\Debug\netcoreapp2.1\api-rest.pdb
